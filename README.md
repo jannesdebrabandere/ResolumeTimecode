@@ -11,4 +11,4 @@ If the name starts with <b>TC1</b> it will start sending LTC timecode starting f
 - Enable Resolume OSC input and output
 - Edit the resolume IP and OSC ports in the "ResolumeTimecodeGenerator" Base in Touch Designer
 - Chose your audio interface and enable the output, you can change the channels inside the Base in the "audiodevout1"
-- Rename the Resolume clips you want to send timecode to "TC1 NAME"
+- Rename the Resolume clips you want to send timecode to "TC0 NAME" to send timecode from 0:00:00:00 (and TC1 for 1:00:00:00, ... , TC23 for 23:00:00:00)
